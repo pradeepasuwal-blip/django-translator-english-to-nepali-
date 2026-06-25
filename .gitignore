@@ -1,0 +1,17 @@
+# Python cache
+*.pyc
+__pycache__/
+
+# Database file
+db.sqlite3
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
